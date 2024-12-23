@@ -20,3 +20,6 @@
 ## Ensure you have selected the correct python interpreter (should be under myenv)
 ### Save everything
 ### run python main.py --> should have a popup with merged faces after some loading
+
+## Referenced github: https://github.com/johnwmillr/Facer
+## Github that provided me help: https://github.com/davisking/dlib/issues/2380
